@@ -80,7 +80,7 @@ Text: Another example tweet.
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) file for details.
+MIT License - See license.txtfile for details.
 
 ## Disclaimer
 
