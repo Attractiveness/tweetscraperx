@@ -1,7 +1,7 @@
 
 # X.com Tweet Scraper
 
-A Python tool to scrape tweets from X.com (formerly Twitter) user profiles and save them as text files.
+Simple Python tool to scrape tweets from a profile link
 
 ## Features
 
